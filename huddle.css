@@ -55,8 +55,8 @@ img {
 }
 
 .main:hover {
-    color:hsl(193, 100%, 96%);
-    margin: 40p
+    color: hsl(320, 85%, 16%);
+    margin: 40px;
 }
 
 .center {
@@ -184,7 +184,7 @@ footer p {
     }
 
     .main:hover{
-        color:hsl(193, 100%, 96%);
+        color: rgb(189, 71, 20);
         margin: 40px;
     }
 	.flex {
